@@ -2,24 +2,7 @@
 
 > Get current wifi name on Linux
 
-
-## Install
-
-```
-$ npm install --save linux-wifi-name
-```
-
-
-## Usage
-
-```js
-var linuxWifiName = require('wifi-name');
-
-linuxWifiName(function (err, name) {
-	console.log(name);
-	//=> 'wu-tang lan'
-});
-```
+**Deprecated in favor of [wifi-name](https://github.com/kevva/wifi-name).**
 
 
 ## License
